@@ -1,0 +1,72 @@
+.log-body{
+    background-image: url("./log/bg-1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.h-log{
+    font-family: 'Festive', cursive;
+}
+/* 
+label, input{
+    font-family: 'Poppins', sans-serif; 
+    font-size: 30px;
+} */
+
+a, h1{
+    font-family: 'Dancing Script', cursive;
+    font-weight: bolder ;
+}
+
+p, label, input{
+    font-family: 'Raleway', sans-serif;
+}
+
+label{
+    color: black;
+    font-size: 23px;
+    font-weight: bolder;
+}
+
+#logo{
+    width: 40px;
+    height: 40px;
+    border: 1px solid green;
+}
+nav{
+    border-bottom: 3px solid blue;
+}
+
+section{
+    background-image: url("./section-1/bg-4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#bor-3{
+    border-width:2px !important;
+}
+
+.section-2{
+    background-image: url("./section-2/bg-5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.mom{
+    background-image: url("./about/bg-3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.co{
+    color: orange;
+}
+
+/* .cont{
+    background-image: url("./cont/bg-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
